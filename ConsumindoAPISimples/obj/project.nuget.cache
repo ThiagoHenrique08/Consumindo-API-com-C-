@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rz45JVe0ogY=",
+  "success": true,
+  "projectFilePath": "C:\\Estudos - C#\\Exercicios\\ConsumindoAPISimples\\ConsumindoAPISimples\\ConsumindoAPISimples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\bin\Debug\net8.0\ConsumindoAPISimples.exe
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\bin\Debug\net8.0\ConsumindoAPISimples.deps.json
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\bin\Debug\net8.0\ConsumindoAPISimples.runtimeconfig.json
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\bin\Debug\net8.0\ConsumindoAPISimples.dll
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\bin\Debug\net8.0\ConsumindoAPISimples.pdb
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\ConsumindoAPISimples.csproj.AssemblyReference.cache
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\ConsumindoAPISimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\ConsumindoAPISimples.AssemblyInfoInputs.cache
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\ConsumindoAPISimples.AssemblyInfo.cs
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\ConsumindoAPISimples.csproj.CoreCompileInputs.cache
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\Consumin.B39BB380.Up2Date
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\ConsumindoAPISimples.dll
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\refint\ConsumindoAPISimples.dll
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\ConsumindoAPISimples.pdb
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\ConsumindoAPISimples.genruntimeconfig.cache
+C:\Estudos - C#\Exercicios\ConsumindoAPISimples\ConsumindoAPISimples\obj\Debug\net8.0\ref\ConsumindoAPISimples.dll
